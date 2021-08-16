@@ -1,0 +1,11 @@
+{
+  "Name": {
+    "message": "Share to Eight"
+  },
+  "Description": {
+    "message": "見ているページをEightにシェアします"
+  },
+  "DefaultTitle": {
+    "message": "Eightにシェア"
+  }
+}
